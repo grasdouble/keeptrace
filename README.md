@@ -4,7 +4,7 @@ KeepState is a repo where I save info about my technical study.
 
 # Why?
 
-Beginning of 2022, i start to publish the result of my work on Grafana and Github Action in linkedin.
+Beginning of 2022, i started to publish the result of my work on Grafana and Github Action in linkedin.
 I discover the pleasure to share the result of my work and I was thinking to a different way to do it.
 
 # Why on github?
