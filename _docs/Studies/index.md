@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Index
-nav_order: 1
+title: Studies
+nav_order: 2
+has_children: true
 ---
 
 In this category, I will share info about some studies.

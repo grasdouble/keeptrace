@@ -1,3 +1,10 @@
+---
+layout: default
+title: Leetcode
+nav_order: 2
+has_children: true
+---
+
 In this category, I will share solutions on some scenarios solved on Leetcode and explain them.
 
 # Leetcode
