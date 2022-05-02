@@ -65,6 +65,8 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
+ga_tracking: G-WVQLJ3WXLJ
+
 just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
