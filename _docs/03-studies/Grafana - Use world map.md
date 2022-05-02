@@ -1,6 +1,7 @@
-----
+---
 layout: default
-title: Grafana - Use world map
+title: Buttons
+parent: Studies
 nav_order: 2
 ---
 

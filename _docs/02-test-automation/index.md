@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Index
-nav_order: 1
+title: Test Automation
+nav_order: 2
+has_children: true
 ---
 In this category, I will share stuff linked to Test Automation.
 

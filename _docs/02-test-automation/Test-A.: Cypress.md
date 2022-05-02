@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Cypress
+title: Buttons
+parent: Test Automation
 nav_order: 2
 ---
 
