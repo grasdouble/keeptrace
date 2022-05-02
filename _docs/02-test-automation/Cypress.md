@@ -5,6 +5,8 @@ parent: Test Automation
 nav_order: 1
 ---
 
+# Cypress
+
 There are already lot of info available about cypress.
 
 I will focus only on the most important things for me.

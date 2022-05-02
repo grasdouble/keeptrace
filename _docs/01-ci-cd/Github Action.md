@@ -42,7 +42,7 @@ For more info: https://github.com/nektos/act
 ## About Inputs
 
 - If you want to use a boolean input and you want to test it, you will have to compare the value like a String. [Issue on Github action repository](https://github.com/actions/runner/issues/1483)
-  > if: ${{ github.event.inputs.my_boolean == 'false'}}
+  > if: $\{\{ github.event.inputs.my_boolean == 'false'}}
 
 # Limitation of the Github Action
 
@@ -58,12 +58,12 @@ If you define some rules on your branch to force developer to use Pull request t
 
 # Which actions to use
 
-# The basics
+## The basics
 
 - [Checkout](https://github.com/marketplace/actions/checkout): An action to checkout the content of your repository.
 - [Setup node](https://github.com/marketplace/actions/setup-node-js-environment): An action to setup node.
 
-# Some others
+## Some others
 
 - [GitHub Create Tag Release](https://github.com/marketplace/actions/github-create-tag-release): An action to create a release tag.
 - [GitHub Action for creating Pull Requests](https://github.com/marketplace/actions/github-action-for-creating-pull-requests): An action that will create a pull request between two branches.

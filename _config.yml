@@ -81,20 +81,10 @@ just_the_docs:
       # Supports true or false (default)
       search_exclude: false
     studies:
-      # Give the collection a name
       name: Studies
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
       nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
       search_exclude: false
     leetcode:
-      # Give the collection a name
       name: Leetcode
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
       nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
       search_exclude: false

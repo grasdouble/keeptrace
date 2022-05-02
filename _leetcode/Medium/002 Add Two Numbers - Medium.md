@@ -5,15 +5,15 @@ parent: Medium
 nav_order: 2
 ---
 
-# Scenario
+# 002 Add Two Numbers [Medium]
 
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 
-## Examples
+### Examples
 
-### Example 1:
+#### Example 1:
 
 ```
 Input: l1 = [2,4,3], l2 = [5,6,4]
@@ -21,21 +21,21 @@ Output: [7,0,8]
 Explanation: 342 + 465 = 807.
 ```
 
-### Example 2:
+#### Example 2:
 
 ```
 Input: l1 = [0], l2 = [0]
 Output: [0]
 ```
 
-### Example 3:
+#### Example 3:
 
 ```
 Input: l1 = [9,9,9,9,9,9,9], l2 = [9,9,9,9]
 Output: [8,9,9,9,0,0,0,1]
 ```
 
-## Constraints
+### Constraints
 
 ```
 The number of nodes in each linked list is in the range [1, 100].
@@ -54,9 +54,9 @@ It is guaranteed that the list represents a number that does not have leading ze
  */
 ```
 
-# How to proceed
+## How to proceed
 
-## Create a function to transform ListNode to String
+### Create a function to transform ListNode to String
 
 we will create a method who will take as parameter a ListNode (`node`) and a string (`arr`).
 
@@ -84,12 +84,12 @@ after transformation will become
 
 First of all, we will check if the ListNode has a next value.
 
-### If YES
+#### If YES
 
 we will do another call to the same function with as parameter `node.next` and `arr`.
 Next to the call, we will assign the result to `arr` concat it with the `node.val`.
 
-### If NO
+#### If NO
 
 if `node.val` is greater than `0` we will concat `arr` with `node.val`.
 
@@ -107,7 +107,7 @@ const transformNode = (node, arr) => {
 };
 ```
 
-## Create a function to transform String to node
+### Create a function to transform String to node
 
 As requested, at the end we need to return a ListNode.
 We will do a function to transfom a String to ListNode and for that we will supposed that char (`value`) will be send as first parameter and a ListNode (`next`) as second paramter.
@@ -134,7 +134,7 @@ const transformToNode = (value, next) => {
 };
 ```
 
-## Transform, Calculate and Transform a second time
+### Transform, Calculate and Transform a second time
 
 Now we have all the functions needed to proceed.
 
@@ -169,7 +169,7 @@ calcResult.split("").forEach((elm) => {
 return finalResult;
 ```
 
-# Final Result
+## Final Result
 
 ```javascript
 const transformNode = (node, arr) => {

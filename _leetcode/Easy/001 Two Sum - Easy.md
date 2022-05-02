@@ -5,7 +5,7 @@ parent: Easy
 nav_order: 1
 ---
 
-# Scenario
+# 001 Two Sum [Easy]
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
@@ -13,9 +13,9 @@ You may assume that each input would have exactly one solution, and you may not 
 
 You can return the answer in any order.
 
-## Examples
+### Examples
 
-### Example 1
+#### Example 1
 
 ```
 Input: nums = [2,7,11,15], target = 9
@@ -23,21 +23,21 @@ Output: [0,1]
 Output: Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
 
-### Example 2:
+#### Example 2:
 
 ```
 Input: nums = [3,2,4], target = 6
 Output: [1,2]
 ```
 
-### Example 3:
+#### Example 3:
 
 ```
 Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 
-## Constraints
+### Constraints
 
 ```
 2 <= nums.length <= 103
@@ -47,9 +47,9 @@ Output: [0,1]
 Only one valid answer exists.
 ```
 
-# How to proceed
+## How to proceed
 
-## Define variables
+### Define variables
 
 To manage values available in the first parameter (nums), we will use two variable.
 
@@ -65,7 +65,7 @@ let result = [];
 
 - `result` will be an array with the index of the two items where the addition of both is equal to the target.
 
-## Iterate on the table `nums`
+### Iterate on the table `nums`
 
 For each entry in the table we will get the index with `idx` and the value with `elm`.
 
@@ -79,7 +79,7 @@ For each iteration, we will test if `comp` contain a attribute for the current e
 if (comp[elm] >= 0) {
 ```
 
-### If NO
+#### If NO
 
 We will add a new attribute in the object.
 
@@ -89,7 +89,7 @@ comp[target - elm] = idx;
 
 The attribute will be defined with the target minus a value in the table. Like that, if later an element in the table match the attribute we will have the idx for the two elements who match the target if we do the addition of them.
 
-### If YES
+#### If YES
 
 We will have at this moment the idx of the two value who match the target if we add them.
 
@@ -102,7 +102,7 @@ the first one will be on `comp[elm]` and the second one will be the current valu
 
 Then we can stop iterating
 
-# Final Result
+## Final Result
 
 ```javascript
 /**
