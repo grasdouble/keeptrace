@@ -5,9 +5,11 @@ nav_order: 1
 has_children: true
 ---
 
+# CI - CD
+
 In this category, I will share stuff linked to Continues Integration and Continues Delivery.
 
-# Github Action
+## Github Action
 
 A tool provided by Github to do an infinite of things.
 
