@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Grafana - Use world map
-parent: Studies
+title: Use world map on Grafana
+parent: Grafana
 nav_order: 1
 ---
 

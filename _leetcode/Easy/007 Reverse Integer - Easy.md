@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 007 Reverse Integer [Easy]
-parent: Leetcode
+parent: Easy
 nav_order: 7
 ---
 

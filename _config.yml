@@ -84,24 +84,6 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       search_exclude: false
-    ci-cd:
-      # Give the collection a name
-      name: CI-CD
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
-    test-automation:
-      # Give the collection a name
-      name: Test Automation
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
     studies:
       # Give the collection a name
       name: Studies

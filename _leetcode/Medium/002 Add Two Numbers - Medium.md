@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 002 Add Two Numbers [Medium]
-parent: Leetcode
+parent: Medium
 nav_order: 2
 ---
 

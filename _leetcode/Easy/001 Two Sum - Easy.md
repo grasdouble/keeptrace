@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 001 Two Sum [Easy]
-parent: Leetcode
+parent: Easy
 nav_order: 1
 ---
 
