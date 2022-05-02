@@ -58,12 +58,6 @@ collections:
   docs:
     permalink: "/:collection/:path/"
     output: true
-  ci-cd:
-    permalink: "/:collection/:path/"
-    output: true
-  test-automation:
-    permalink: "/:collection/:path/"
-    output: true
   studies:
     permalink: "/:collection/:path/"
     output: true
