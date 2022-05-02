@@ -1,3 +1,9 @@
+---
+layout: default
+title: Github Action
+nav_order: 2
+---
+
 # How to work on Github Action
 
 When you start to work for the first time on a github action, you will certainly have the reflex to directly test it on Github.

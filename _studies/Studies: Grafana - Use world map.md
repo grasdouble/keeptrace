@@ -1,3 +1,8 @@
+---
+layout: default
+title: Grafana - Use world map
+nav_order: 2
+---
 # Use world map to display user activity
 
 Based on Elastic Search info, I created a dashboard to display a map where we can see user connections.
