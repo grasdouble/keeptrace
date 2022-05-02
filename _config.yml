@@ -58,6 +58,18 @@ collections:
   docs:
     permalink: "/:collection/:path/"
     output: true
+  ci-cd:
+    permalink: "/:collection/:path/"
+    output: true
+  test-automation:
+    permalink: "/:collection/:path/"
+    output: true
+  studies:
+    permalink: "/:collection/:path/"
+    output: true
+  leetcode:
+    permalink: "/:collection/:path/"
+    output: true
 
 just_the_docs:
   # Define which collections are used in just-the-docs
@@ -66,6 +78,42 @@ just_the_docs:
     docs:
       # Give the collection a name
       name: Documentation
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
+    ci-cd:
+      # Give the collection a name
+      name: CI-CD
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
+    test-automation:
+      # Give the collection a name
+      name: Test Automation
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
+    studies:
+      # Give the collection a name
+      name: Studies
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
+    leetcode:
+      # Give the collection a name
+      name: Leetcode
       # Exclude the collection from the navigation
       # Supports true or false (default)
       nav_exclude: false
