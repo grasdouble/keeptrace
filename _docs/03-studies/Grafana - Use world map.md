@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Buttons
+title: Grafana - Use world map
 parent: Studies
-nav_order: 2
+nav_order: 1
 ---
 
 # Use world map to display user activity

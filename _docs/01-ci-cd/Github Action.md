@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Github Action
-nav_order: 2
+title: Gtihub Action
+parent: CI - CD
+nav_order: 1
 ---
 
 # How to work on Github Action

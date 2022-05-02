@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Buttons
+title: Cypress
 parent: Test Automation
-nav_order: 2
+nav_order: 1
 ---
 
 There are already lot of info available about cypress.

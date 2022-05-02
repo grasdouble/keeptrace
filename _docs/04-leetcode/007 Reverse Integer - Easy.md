@@ -1,3 +1,10 @@
+---
+layout: default
+title: 007 Reverse Integer [Easy]
+parent: Leetcode
+nav_order: 7
+---
+
 # Scenario
 
 Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.

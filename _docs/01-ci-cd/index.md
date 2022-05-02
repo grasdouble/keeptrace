@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Index
+title: CI - CD
 nav_order: 1
+has_children: true
 ---
 
 In this category, I will share stuff linked to Continues Integration and Continues Delivery.
