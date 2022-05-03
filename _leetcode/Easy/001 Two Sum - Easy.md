@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 001 Two Sum [Easy]
+title: 001 Two sum [Easy]
 parent: Easy
 nav_order: 1
 ---
 
-# 001 Two Sum [Easy]
+# 001 Two sum [Easy]
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
@@ -110,7 +110,7 @@ Then we can stop iterating
  * @param {number} target
  * @return {number[]}
  */
-const twoSum = function (nums, target) {
+const twoSum => (nums, target) {
   const comp = {};
   let result = [];
   for (const [idx, elm] of nums.entries()) {

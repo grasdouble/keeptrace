@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 002 Add Two Numbers [Medium]
+title: 002 Add two numbers [Medium]
 parent: Medium
 nav_order: 2
 ---
 
-# 002 Add Two Numbers [Medium]
+# 002 Add two numbers [Medium]
 
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 
