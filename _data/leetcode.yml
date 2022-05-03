@@ -1,0 +1,12 @@
+- title: Easy
+  leetcode:
+    - 001_Two_sum__easy__
+    - 007_Reverse_integer__Easy__
+
+- title: Medium
+  leetcode:
+    - 002_Add_two_numbers__Medium__
+
+- title: Hard
+  leetcode:
+    - 004_Median_of_two_sorted_arrays__Hard__

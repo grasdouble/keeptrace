@@ -1,0 +1,7 @@
+- title: CI - CD
+  docs:
+    - ci-cd/github-action
+
+- title: Test Automation
+  docs:
+    - test-automation/cypress
