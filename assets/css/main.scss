@@ -19,3 +19,13 @@
   "syntax-highlighting",
   "jekyll-doc-theme"
 ;
+
+// Code highlight
+.highlight {
+  background: unset;
+}
+@import url(./monakai.css);
+
+h2 {
+  text-decoration: underline;
+}

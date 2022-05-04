@@ -3,7 +3,7 @@ title: Cypress
 permalink: /docs/test-automation/cypress/
 ---
 
-## Cypress
+## Some best practices to have with cypress
 
 There are already lot of info available about cypress.
 
