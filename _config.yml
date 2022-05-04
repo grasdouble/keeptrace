@@ -2,7 +2,7 @@
 title: KeepTrace
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  TODO Description
+  Keeptrace is a side project where I will share the results of studies, feedbacks on different technical subjects
 lang: en-US
 
 baseurl: "/keeptrace" # the subpath of your site, e.g. /blog
