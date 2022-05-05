@@ -3,7 +3,7 @@ title: 004 Median of two sorted arrays [Hard]
 permalink: /leetcode/004_Median_of_two_sorted_arrays__Hard__/
 ---
 
-## What to do
+## Description
 
 Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
 
@@ -105,3 +105,7 @@ const findMedianSortedArrays => (nums1, nums2) {
   return arr.length % 2 !== 0 ? arr[mid] : (arr[mid - 1] + arr[mid]) / 2;
 };
 ```
+
+## For further information
+
+- [Info about Math.floor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor)

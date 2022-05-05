@@ -3,7 +3,7 @@ title: 001 Two sum [Easy]
 permalink: /leetcode/001_Two_sum__easy__/
 ---
 
-## What to do
+## Description
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
@@ -119,3 +119,7 @@ const twoSum => (nums, target) {
   return result;
 };
 ```
+
+## For further information
+
+- [Info about Array.entries](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/entries)

@@ -3,7 +3,7 @@ title: 002 Add two numbers [Medium]
 permalink: /leetcode/002_Add_two_numbers__Medium__/
 ---
 
-## What to do
+## Description
 
 You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.
 
@@ -200,3 +200,8 @@ const addTwoNumbers = function (l1, l2) {
   return finalResult;
 };
 ```
+
+## For further information
+
+- [Info about BigInt](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/BigInt)
+- [Info about ListNode (linked list)](https://www.tutorialspoint.com/data_structures_algorithms/linked_lists_algorithm.htm)
