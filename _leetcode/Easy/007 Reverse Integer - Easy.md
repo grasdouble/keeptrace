@@ -1,17 +1,13 @@
 ---
-layout: default
 title: 007 Reverse integer [Easy]
-parent: Easy
-nav_order: 7
+permalink: /leetcode/007_Reverse_integer__Easy__/
 ---
 
-# 007 Reverse integer [Easy]
+## Description
 
 Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.
 
 Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
-
-### Examples
 
 #### Example 1:
 
@@ -41,7 +37,7 @@ Input: x = 0
 Output: 0
 ```
 
-### Constraints
+#### Constraints
 
 ```
 -231 <= x <= 231 - 1
@@ -110,3 +106,7 @@ var reverse = function (x) {
   return isNegative ? -result : result;
 };
 ```
+
+## For further information
+
+[Info about Math.abs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs)
