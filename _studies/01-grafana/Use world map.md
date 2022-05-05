@@ -1,6 +1,7 @@
 ---
 title: Use world map to display user activity
 permalink: /studies/use_world_map_to_display_user_activity/
+redirect_from: /studies/index.html
 ---
 
 Based on Elastic Search info, I created a dashboard to display a map where we can see user connections.

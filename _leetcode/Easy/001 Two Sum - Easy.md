@@ -1,6 +1,7 @@
 ---
 title: 001 Two sum [Easy]
 permalink: /leetcode/001_Two_sum__easy__/
+redirect_from: /leetcode/index.html
 ---
 
 ## Description
