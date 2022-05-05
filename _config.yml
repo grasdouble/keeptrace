@@ -4,7 +4,7 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Keeptrace is a side project where I will share the results of studies, feedbacks on different technical subjects
 lang: en-US
-
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages 
 baseurl: "/keeptrace" # the subpath of your site, e.g. /blog
 url: "https://grasdouble.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 git_address: https://github.com/grasdouble/keeptrace
