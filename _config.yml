@@ -8,7 +8,7 @@ lang: en-US
 baseurl: "/keeptrace" # the subpath of your site, e.g. /blog
 url: "https://grasdouble.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 git_address: https://github.com/grasdouble/keeptrace
-git_edit_address: https://github.com/grasdouble/keeptrace/tree/test-other-themes
+git_edit_address: https://github.com/grasdouble/keeptrace/blob/main
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap
