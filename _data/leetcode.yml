@@ -11,3 +11,5 @@
   leetcode:
     - 004_Median_of_two_sorted_arrays__Hard__
     - 010_regular_expression_matching__Hard__
+    - 023_merge_k_sorted_lists__Hard__
+    - 042_trapping_rain_water__Hard__

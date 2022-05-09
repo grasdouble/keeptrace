@@ -43,11 +43,11 @@ It is guaranteed that the list represents a number that does not have leading ze
 ```javascript
 /**
  * Definition for singly-linked list.
- * function ListNode(val, next) {
- *     this.val = (val===undefined ? 0 : val)
- *     this.next = (next===undefined ? null : next)
- * }
  */
+function ListNode(val, next) {
+  this.val = (val===undefined ? 0 : val)
+  this.next = (next===undefined ? null : next)
+}
 ```
 
 ## How to proceed
