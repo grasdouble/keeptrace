@@ -1,5 +1,5 @@
 ---
-title: 042 Trapping rain water [Hard]
+title: 042 Trapping rain water
 permalink: /leetcode/042_trapping_rain_water__Hard__/
 ---
 

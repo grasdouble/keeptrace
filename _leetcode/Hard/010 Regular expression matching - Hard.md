@@ -1,5 +1,5 @@
 ---
-title: 010 Regular expression matching [Hard]
+title: 010 Regular expression matching
 permalink: /leetcode/010_regular_expression_matching__Hard__/
 ---
 

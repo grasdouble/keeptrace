@@ -1,5 +1,5 @@
 ---
-title: 002 Add two numbers [Medium]
+title: 002 Add two numbers
 permalink: /leetcode/002_Add_two_numbers__Medium__/
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 004 Median of two sorted arrays [Hard]
+title: 004 Median of two sorted arrays
 permalink: /leetcode/004_Median_of_two_sorted_arrays__Hard__/
 ---
 

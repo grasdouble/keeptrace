@@ -1,5 +1,5 @@
 ---
-title: 007 Reverse integer [Easy]
+title: 007 Reverse integer
 permalink: /leetcode/007_Reverse_integer__Easy__/
 ---
 

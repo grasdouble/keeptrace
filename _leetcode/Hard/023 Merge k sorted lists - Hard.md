@@ -1,5 +1,5 @@
 ---
-title: 023 Merge k sorted lists [Hard]
+title: 023 Merge k sorted lists
 permalink: /leetcode/023_merge_k_sorted_lists__Hard__/
 ---
 
@@ -58,7 +58,6 @@ function ListNode(val, next) {
   this.next = next === undefined ? null : next;
 }
 ```
-
 
 ## How to proceed
 

@@ -1,5 +1,5 @@
 ---
-title: 003 Longest substring without repeating character [Medium]
+title: 003 Longest substring without repeating character
 permalink: /leetcode/003_longest_substring_without_repeating_character__Medium__/
 ---
 
