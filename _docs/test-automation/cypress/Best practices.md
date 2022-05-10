@@ -1,6 +1,6 @@
 ---
-title: Cypress
-permalink: /docs/test-automation/cypress/
+title: Best practices
+permalink: /docs/test-automation/cypress/best_practices/
 ---
 
 ## Some best practices to have with cypress

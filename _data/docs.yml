@@ -1,7 +1,10 @@
-- title: CI - CD
+- title: Github Action
   docs:
-    - ci-cd/github-action
+    - ci-cd/github-action/tooling
+    - ci-cd/github-action/good_to_know
+    - ci-cd/github-action/List_of_actions_usable_in_your_workflows
+    #- ci-cd/github-action/external_links
 
-- title: Test Automation
+- title: Cypress
   docs:
-    - test-automation/cypress
+    - test-automation/cypress/best_practices
