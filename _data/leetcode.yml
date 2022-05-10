@@ -6,6 +6,7 @@
 - title: Medium
   leetcode:
     - 002_Add_two_numbers__Medium__
+    - 003_longest_substring_without_repeating_character__Medium__
 
 - title: Hard
   leetcode:

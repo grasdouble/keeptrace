@@ -45,8 +45,8 @@ It is guaranteed that the list represents a number that does not have leading ze
  * Definition for singly-linked list.
  */
 function ListNode(val, next) {
-  this.val = (val===undefined ? 0 : val)
-  this.next = (next===undefined ? null : next)
+  this.val = val === undefined ? 0 : val;
+  this.next = next === undefined ? null : next;
 }
 ```
 
@@ -184,11 +184,6 @@ const transformToNode = (value, next) => {
   return node;
 };
 
-/**
- * @param {ListNode} l1
- * @param {ListNode} l2
- * @return {ListNode}
- */
 const addTwoNumbers = function (l1, l2) {
   const l1Value = BigInt(transformNode(l1, "") || 0);
   const l2Value = BigInt(transformNode(l2, "") || 0);
