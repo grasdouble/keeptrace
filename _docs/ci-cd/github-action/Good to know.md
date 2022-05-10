@@ -1,5 +1,5 @@
 ---
-title: Goos to know
+title: Good to know
 permalink: /docs/ci-cd/github-action/good_to_know/
 ---
 
