@@ -1,5 +1,5 @@
 ---
-title: Share
+title: Docs
 permalink: /docs/home/
 redirect_from: /docs/index.html
 ---
