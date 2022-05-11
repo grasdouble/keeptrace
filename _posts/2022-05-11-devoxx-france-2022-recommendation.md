@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devoxx France 2022 Recommendation"
+title: "Devoxx France 2022 - My recommendations"
 author: Noofreuuuh
 ---
 
