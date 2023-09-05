@@ -13,7 +13,7 @@ I'm always on this platform for my work or for my personal projects and I think 
 
 # Where are the info?
 
-For now, in the wiki of this project.
+I'm using [Jekyll](https://github.com/jekyll/jekyll) to manage the content and it's published as a github page.
 
 # What is the advantage?
 
@@ -25,4 +25,4 @@ There are multiple advantages:
 
 # Ok and now?
 
-You maybe want to access to the wiki --> [GO](https://github.com/grasdouble/keeptrace/wiki)
+You maybe want to access to the wiki --> [GO](https://grasdouble.github.io/keeptrace)
